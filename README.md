@@ -19,7 +19,7 @@ Das ist der erste Absatz.
 Das ist der zweite Absatz.
 
 Und hier:
-    [params]
+    \[params\]
     key = value
     
 Und hier geht es weiter.
