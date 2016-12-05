@@ -20,7 +20,7 @@ Das ist der zweite Absatz.
 
 # Überschrift #
 
-    \[params\]
+    [params]
     key = value
     
 Und hier geht es weiter.
