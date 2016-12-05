@@ -18,7 +18,7 @@ Das ist der erste Absatz.
 
 Das ist der zweite Absatz.
 
-_Überschrift_
+# Überschrift #
 
     \[params\]
     key = value
